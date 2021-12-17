@@ -5,8 +5,8 @@ class config:
     DATABASE_URL = ""
     SUDO_USERS = "" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "1024838154358-pucoej11ar2p2bhjvu12fo5uqqi30bbb.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
     SUPPORT_CHAT_LINK = ""
 
 
